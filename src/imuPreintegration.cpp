@@ -1,7 +1,7 @@
 /************************************************* 
-GitHub: https://github.com/smilefacehh/LIO-SAM-DetailedNote
-Author: lutao2014@163.com
-Date: 2021-02-21 
+GitHub: https://github.com/WestRiceSama/LIO-SAM-Commented-TUMOutput
+Author: 906527177@qq.com
+Date: 2024-08-16 
 --------------------------------------------------
 TransformFusion类
 功能简介：
