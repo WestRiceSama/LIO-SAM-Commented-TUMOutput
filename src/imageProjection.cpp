@@ -1,7 +1,7 @@
 /************************************************* 
-GitHub: https://github.com/smilefacehh/LIO-SAM-DetailedNote
-Author: lutao2014@163.com
-Date: 2021-02-21 
+GitHub: https://github.com/WestRiceSama/LIO-SAM-Commented-TUMOutput
+Author: 906527177@qq.com
+Date: 2024-08-16 
 --------------------------------------------------
 功能简介:
     1、利用当前激光帧起止时刻间的imu数据计算旋转增量，IMU里程计数据（来自ImuPreintegration）计算平移增量，进而对该帧激光每一时刻的激光点进行运动畸变校正（利用相对于激光帧起始时刻的位姿增量，变换当前激光点到起始时刻激光点的坐标系下，实现校正）；
