@@ -1,7 +1,7 @@
 /************************************************* 
-GitHub: https://github.com/smilefacehh/LIO-SAM-DetailedNote
-Author: lutao2014@163.com
-Date: 2021-02-21 
+GitHub: https://github.com/WestRiceSama/LIO-SAM-Commented-TUMOutput
+Author: 906527177@qq.com
+Date: 2024-08-16  
 --------------------------------------------------
 功能简介:
     对经过运动畸变校正之后的当前帧激光点云，计算每个点的曲率，进而提取角点、平面点（用曲率的大小进行判定）。
