@@ -1,5 +1,5 @@
 # LIO-SAM-Commented-TUMOutput
-LIO-SAM源码详细注释，3D SLAM融合激光、IMU、GPS，因子图优化。
+LIO-SAM源码详细注释+增加输出TUM格式轨迹，3D SLAM融合激光、IMU、GPS，因子图优化。
 
 LIO-SAM的代码十分轻量，只有四个cpp文件，很值得读一读呢。
 
