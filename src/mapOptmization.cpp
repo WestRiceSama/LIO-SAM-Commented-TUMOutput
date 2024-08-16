@@ -1,7 +1,7 @@
 /************************************************* 
-GitHub: https://github.com/smilefacehh/LIO-SAM-DetailedNote
-Author: lutao2014@163.com
-Date: 2021-02-21 
+GitHub: https://github.com/WestRiceSama/LIO-SAM-Commented-TUMOutput
+Author: 906527177@qq.com
+Date: 2024-08-16 
 --------------------------------------------------
 功能简介:
     1、scan-to-map匹配：提取当前激光帧特征点（角点、平面点），局部关键帧map的特征点，执行scan-to-map迭代优化，更新当前帧位姿；
