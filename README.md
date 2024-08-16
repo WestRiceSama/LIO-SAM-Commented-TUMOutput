@@ -5,15 +5,6 @@ LIO-SAM的代码十分轻量，只有四个cpp文件，很值得读一读呢。
 
 关于LIO-SAM的论文解读，网上已经有很多文章啦，同系列的LOAM、A-LOAM、LEGO-LOAM等，在网上都可以找到相关的解读文章。所以本文旨在对源代码进行阅读学习，积累一些工程上的经验。这里记录下来，希望可以帮到有需要的同学，如有错误的地方，请您批评指正。
 
-:) 如果对您有帮助，帮我点个star呦~
-
-## 目录（知乎）
-- [LIO-SAM源码解析：准备篇](https://zhuanlan.zhihu.com/p/352039509)
-- [LIO-SAM源码解析(一)：ImageProjection](https://zhuanlan.zhihu.com/p/352120054)
-- [LIO-SAM源码解析(二)：FeatureExtraction](https://zhuanlan.zhihu.com/p/352144126)
-- [LIO-SAM源码解析(三)：IMUPreintegration](https://zhuanlan.zhihu.com/p/352146800)
-- [LIO-SAM源码解析(四)：MapOptimization](https://zhuanlan.zhihu.com/p/352148894)
-
 ## 整体流程
 
 代码结构图
@@ -159,4 +150,5 @@ LIO-SAM的代码十分轻量，只有四个cpp文件，很值得读一读呢。
 12.发布当前帧原始点云配准之后的点云；
 
 
-如有错误请您批评指正，希望内容对您有帮助，更多细节可以查看代码注释~
+## 在 mapOptmization.cpp 里新增加了输出TUM格式的轨迹的函数，便于进行评估
+# LIO-SAM-Commented-TUMOutput
